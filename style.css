@@ -271,6 +271,15 @@ img{ max-width:100%; display:block; }
 .service-icon{ font-size: 2rem; display:block; margin-bottom: 1rem; }
 .service-card h3{ font-size: 1.3rem; margin-bottom: .8rem; }
 .service-card p{ font-size: .92rem; opacity: .85; }
+.service-example{
+  display: inline-block;
+  margin-top: 1.2rem;
+  font-weight: 700;
+  font-size: .88rem;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  color: var(--ink);
+}
 
 /* ===========================================
    PROJECTS
